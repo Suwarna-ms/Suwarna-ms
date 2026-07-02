@@ -6,14 +6,13 @@ CGPA: 9.45/10 | Coimbatore, Tamil Nadu
 ---
 
 ## About Me
-I build robotics and automation systems from scratch —  
-every line of code written and understood by me.
+I build robotics and automation systems 
 
 - 🤖 Working with **ROS2 Humble** — nodes, topics, services, actions, Nav2
 - ⚡ Embedded systems using **ESP32**, **Arduino**, FSR, IMU sensors
 - 🐍 **Python** for robotics, data processing, and automation
 - 🔬 Research intern at **IISER Bhopal** (NPTEL) — micro-volt precision circuit design
-- 🏆 **TN Impact Hackathon Winner** — SmartStep wearable (200+ teams, Feb 2026)
+- 🏆 **TN Impact Hackathon** — SmartStep wearable (200+ teams, Feb 2026)
 - 📊 **NPTEL Sensors & Actuators — Top 2% Nationally** (IIT Hyderabad, 2024)
 
 ---
